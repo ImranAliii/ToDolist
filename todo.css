@@ -1,0 +1,34 @@
+table {
+    width: 50%;
+    border-collapse: collapse;
+    
+    margin-top: 20px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+h3{
+    color: black;
+    margin-left: 37%;
+    
+}
+#taskTable{
+     background-color: aqua;
+     margin-left: 20%;
+}
+#taskInput{
+background-color: aqua;
+margin-left: 34%;
+}
+button{
+color: white;
+background-color: black;
+font-weight: bold;
+padding: 3px 10px 3px 10px;
+margin-left: 20px;
+border-radius: 7px;
+}
